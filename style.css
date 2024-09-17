@@ -2,5 +2,22 @@ body{background-color: gray;
 }
 h1{text-align: center;
 }
-h1{color: yellow;
-font-size: 200%;}
+h1{color: rgba(0, 0, 0, 0.788);
+font-size: 200%;
+}
+h1{text-transform: capitalize;}
+
+
+h2{text-align: center;
+}
+h2{color:  rgba(0, 0, 0, 0.788);
+font-size: 170%;
+}
+h2{text-transform: capitalize;
+}
+
+h3{text-transform: capitalize;
+}
+h3{text-decoration: underline;
+}
+
